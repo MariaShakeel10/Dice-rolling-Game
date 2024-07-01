@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.d {
+    align-items: center;
+}
+.my-width{
+    width: 20%;
+}
+.head1{
+    color: blue;
+    text-decoration-line: underline;
+    text-decoration-color: red;
+}
